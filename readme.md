@@ -1,3 +1,24 @@
+# Movie Quotes App
+
+## Introduction
+
+This is an app that loads a random movie quote when you refresh the page.
+
+## Installation
+
+To run this project, install it locally using npm:
+
+```
+npm install
+npm start
+```
+
+open http://localhost:3000 in the browser
+
+---
+
+---
+
 # Assignment
 
 ## Objectives
@@ -10,7 +31,7 @@ By the end of this project you will:
 
 ## Introduction
 
-Our intern Dan is working on this killer Movie Quotes App that returns a random movie quote. Right now all it does is render a blank screen in the web browser. Fork the repository found here and help Dan fix it.  
+Our intern Dan is working on this killer Movie Quotes App that returns a random movie quote. Right now all it does is render a blank screen in the web browser. Fork the repository found here and help Dan fix it.
 
 ## Specifications
 
